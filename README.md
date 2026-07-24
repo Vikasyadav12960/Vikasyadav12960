@@ -1,26 +1,106 @@
- # About Me:
- hi, I  as a common human being here to upgrade myself
- 
-#  Socials:
+# Vikas Yadav
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-katta-a7b56b329/?skipRedirect=true)
+> 
 
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajurajukatta3@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,8A2BE2,4B0082&height=220&section=header&text=Vikas%20Yadav&fontColor=ffffff&fontSize=45"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username=Vikasyadav12960&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vikasyadav12960&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasyadav12960&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Diploma+CSE+Student;AI+%26+Automation+Builder;Future+Software+Engineer;Open+Source+Learner"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vikasyadav12960&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikasyadav12960&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
+![CSE](https://img.shields.io/badge/Diploma-CSE-blueviolet?style=for-the-badge)
+![India](https://img.shields.io/badge/India-Telangana%20-6A5ACD?style=for-the-badge)
+![Profile](https://komarev.com/ghpvc/?username=Vikasyadav12960&style=for-the-badge)
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vikasyadav12960&icon=5&color=0)](https://visitcount.itsvg.in)
+
+# About
+
+Computer Science diploma student focused on AI engineering, backend development, automation and modern software engineering. Currently building personal projects including **Zexx AI** and experimenting with OpenAI, Ollama, FastAPI and GitHub workflows.
+
+Open to internships, open-source collaboration and AI projects.
+
+---
+
+# Tech Stack
+
+- Languages: Python, C, C++, Java, SQL
+- Backend: FastAPI, REST APIs
+- AI: OpenAI API, Ollama, Prompt Engineering
+- Tools: Git, GitHub, VS Code
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Zexx AI Assistant</b></summary>
+
+| Category | Details |
+|---|---|
+| Stack | Python, FastAPI, OpenAI |
+| Goal | Personal AI assistant |
+| Focus | Automation & Productivity |
+
+</details>
+
+<details>
+<summary><b>OpenClaw Integration</b></summary>
+
+Local AI experimentation using OpenClaw, Ollama and OpenAI models.
+
+</details>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikasyadav12960&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasyadav12960&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vikasyadav12960&theme=tokyonight"/>
+</p>
+
+---
+
+# Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vikasyadav12960&theme=tokyo-night)
+
+---
+
+```yaml
+Learning:
+  - AI Engineering
+  - Backend Systems
+Building:
+  - Zexx AI
+  - Automation Projects
+Exploring:
+  - LLM Agents
+  - Cloud
+OpenTo:
+  - Internships
+  - Open Source
+```
+
+---
+
+> "Build consistently. Improve relentlessly."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,6A5ACD&height=120&section=footer"/>
+</p>
+
 
 
   
