@@ -1,0 +1,59 @@
+<svg
+    width="1200"
+    height="350"
+    viewBox="0 0 1200 350"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+
+        <!-- Sky -->
+        <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+
+            <stop offset="0%" stop-color="#3B2C85"/>
+
+            <stop offset="25%" stop-color="#5C4FA3"/>
+
+            <stop offset="55%" stop-color="#8B73D6"/>
+
+            <stop offset="80%" stop-color="#D8A6A1"/>
+
+            <stop offset="100%" stop-color="#F4C6A8"/>
+
+        </linearGradient>
+
+        <!-- Bloom -->
+
+        <radialGradient id="sunGlow">
+
+            <stop offset="0%" stop-color="#FFF5CC"/>
+
+            <stop offset="30%" stop-color="#FFE8A8"/>
+
+            <stop offset="100%" stop-color="transparent"/>
+
+        </radialGradient>
+
+    </defs>
+
+    <!-- Background -->
+
+    <rect
+        width="1200"
+        height="350"
+        fill="url(#sky)" />
+
+    <!-- Sun Bloom -->
+
+    <circle
+
+        cx="900"
+
+        cy="60"
+
+        r="160"
+
+        fill="url(#sunGlow)"
+
+        opacity=".9"/>
+
+</svg>
