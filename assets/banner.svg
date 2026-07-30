@@ -6,34 +6,64 @@
 
     <defs>
 
-        <!-- Sky -->
-        <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+    <!-- Main Sky -->
+    <linearGradient id="sky"
+        x1="0%"
+        y1="0%"
+        x2="0%"
+        y2="100%">
 
-            <stop offset="0%" stop-color="#3B2C85"/>
+        <stop offset="0%" stop-color="#2E1F5E"/>
 
-            <stop offset="25%" stop-color="#5C4FA3"/>
+        <stop offset="25%" stop-color="#5543A5"/>
 
-            <stop offset="55%" stop-color="#8B73D6"/>
+        <stop offset="55%" stop-color="#8E7CE8"/>
 
-            <stop offset="80%" stop-color="#D8A6A1"/>
+        <stop offset="80%" stop-color="#E2AAA8"/>
 
-            <stop offset="100%" stop-color="#F4C6A8"/>
+        <stop offset="100%" stop-color="#FFD2B5"/>
 
-        </linearGradient>
+    </linearGradient>
 
-        <!-- Bloom -->
+    <!-- Sun -->
 
-        <radialGradient id="sunGlow">
+    <radialGradient id="sunGlow">
 
-            <stop offset="0%" stop-color="#FFF5CC"/>
+        <stop offset="0%" stop-color="#FFF9D9"/>
 
-            <stop offset="30%" stop-color="#FFE8A8"/>
+        <stop offset="15%" stop-color="#FFF1B3"/>
 
-            <stop offset="100%" stop-color="transparent"/>
+        <stop offset="45%" stop-color="#FFD9B2"/>
 
-        </radialGradient>
+        <stop offset="100%" stop-color="transparent"/>
 
-    </defs>
+    </radialGradient>
+
+    <!-- Horizon Glow -->
+
+    <linearGradient id="horizon"
+
+        x1="0%"
+        y1="0%"
+        x2="0%"
+        y2="100%">
+
+        <stop offset="0%" stop-color="#FFD7C2" stop-opacity="0"/>
+
+        <stop offset="100%" stop-color="#FFD7C2"
+              stop-opacity=".65"/>
+
+    </linearGradient>
+
+    <!-- Bloom Blur -->
+
+    <filter id="bloom">
+
+        <feGaussianBlur stdDeviation="40"/>
+
+    </filter>
+
+</defs>
 
     <!-- Background -->
 
@@ -43,17 +73,55 @@
         fill="url(#sky)" />
 
     <!-- Sun Bloom -->
+<!-- Sky -->
 
-    <circle
+<rect
+    width="1200"
+    height="350"
+    fill="url(#sky)" />
 
-        cx="900"
+<!-- Horizon -->
 
-        cy="60"
+<rect
 
-        r="160"
+    x="0"
 
-        fill="url(#sunGlow)"
+    y="210"
 
-        opacity=".9"/>
+    width="1200"
+
+    height="140"
+
+    fill="url(#horizon)"/>
+
+<!-- Sun -->
+
+<circle
+
+    cx="920"
+
+    cy="70"
+
+    r="90"
+
+    fill="#FFF3C4"
+
+    opacity=".75"/>
+
+<!-- Bloom -->
+
+<circle
+
+    cx="920"
+
+    cy="70"
+
+    r="180"
+
+    fill="url(#sunGlow)"
+
+    filter="url(#bloom)"
+
+    opacity=".85"/>
 
 </svg>
