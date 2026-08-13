@@ -40,19 +40,21 @@ A modular terminal application designed around discovering and launching differe
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasYadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
+<br/>
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=VikasYadav12960&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://raw.githubusercontent.com/VikasYadav12960/VikasYadav12960/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="98%" />
+
+<br/><br/>
+
+</div>
 
 ## 📈 GitHub Statistics
 
