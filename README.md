@@ -1,42 +1,18 @@
-# 👋 Hey, I'm Vikas Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header" width="100%"/>
 
-> **Currently building. Constantly learning. Improving every day.**
+# 💫 About Me:
 
-I'm a developer interested in **software engineering, machine learning, and developer tools**.
+Currently working on myself
+Improving Daily
 
-* 🔭 Currently building **Nuexx** — a neural network from scratch
-* 🛠️ Building **ZEXX Terminal** — a modular terminal application
-* 🧠 Learning **Machine Learning & Neural Networks**
-* 💻 Working with **Python, C, C++, and .NET**
-* 🚀 Interested in open source and building things from scratch
+# 💻 Tech Stack:
 
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Nuexx
-
-A neural network project built from scratch to understand how neural networks actually work.
-
-**Focus:** Neurons • Layers • Activations • Loss Functions • Learning
-
-### 🖥️ ZEXX Terminal
-
-A modular terminal application designed around discovering and launching different applications.
-
-**Focus:** Python • Terminal UI • Modular Architecture • Developer Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic\&logo=windows-terminal\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic\&logo=.net\&logoColor=white)
 
 ---
 
@@ -44,48 +20,38 @@ A modular terminal application designed around discovering and launching differe
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasYadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
+<br/>
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=VikasYadav12960&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasYadav12960&theme=tokyonight" width="98%" />
-
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikasYadav12960&theme=tokyonight" width="32%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasYadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Vikas%20Yadav%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📈 Statistics
 
-```text
-Software Engineering    ███████████████░░░  Learning
-Machine Learning        ████████████░░░░░░  Building
-C / C++                 █████████████░░░░░  Improving
-Python                  ███████████████░░░░  Building
-Open Source             ████████░░░░░░░░░░  Growing
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VikasYadav12960/VikasYadav12960/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="98%" />
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=VikasYadav12960\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
 <div align="center">
 
-### "Build things. Break things. Understand why."
+### 🚀 Keep Building. Keep Learning.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
