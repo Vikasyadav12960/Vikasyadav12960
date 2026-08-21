@@ -2,7 +2,7 @@
 
 > **Currently building. Constantly learning. Improving every day.**
 
-I'm a developer interested in **software engineering, machine learning, and developer tools**.
+I'm a developer interested in **software , reverse engineering, machine learning, and developer tools**.
 
 * 🔭 Currently building **Nuexx** — a neural network from scratch
 * 🛠️ Building **ZEXX Terminal** — a modular terminal application
