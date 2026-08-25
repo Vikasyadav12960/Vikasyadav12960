@@ -29,7 +29,7 @@ I'm a developer interested in the context  **software , reverse engineering, mac
 
 ### 🧠 Nuexx
 
-A neural network project built from scratch to understand how neural networks actually work.
+A neural network project built from scratch to understand how  exactly neural networks actually work.
 
 **Focus:** Neurons • Layers • Activations • Loss Functions • Learning
 
