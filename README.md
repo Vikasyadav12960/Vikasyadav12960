@@ -55,7 +55,7 @@ A modular terminal application designed around discovering and launching differe
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statisticss
 
 <div align="center">
 
