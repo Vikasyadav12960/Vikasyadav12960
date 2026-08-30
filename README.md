@@ -9,7 +9,7 @@ I'm a developer interested in the context  **software , reverse engineering, mac
 * 🧠 Learning **Machine Learning & Neural Networks**
 * 💻 Working with **Python, C, C++, and .NET**
 * 🚀 Interested in open source and building things from scratch
-* just trying to work, improve myselff
+* just trying to work, improve myself 
 
 ---
 
