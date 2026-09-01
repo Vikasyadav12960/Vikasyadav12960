@@ -87,7 +87,7 @@ Open Source             ████████░░░░░░░░░░  
 
 <div align="center">
 
-### "Build things. Break things. And  to Understand why."
+### "Build thingss. Break things. And  to Understand why."
 
 </div>
 
