@@ -8,7 +8,7 @@ I'm a developer interested in the context  **software , reverse engineering, mac
 * 🛠️ Building **ZEXX Terminal** — a modular terminal application
 * 🧠 Learning **Machine Learning & Neural Networks**
 * 💻 Working with **Python, C, C++, and .NET**
-* 🚀 Interested in open source and building things from scratch
+* 🚀 Interested in open source and building things from scratchh
 * just trying to work, improve myself 
 
 ---
