@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vikas Katta
+7# 👋 Hey, I'm Vikas Katta
 
 > **Currently building. Constantly learning. Improving every day.**
 
@@ -55,7 +55,7 @@ A modular terminal application designed around discovering and launching differe
 
 ---
 
-## 📈 GitHub Statisticss
+## 📈 GitHub Statistics
 
 <div align="center">
 
