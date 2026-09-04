@@ -73,7 +73,7 @@ A modular terminal application designed around discovering and launching differe
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focuss
 
 ```text
 Software Engineering    ███████████████░░░  Learning
