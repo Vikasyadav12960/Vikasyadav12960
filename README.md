@@ -24,8 +24,7 @@ I'm a developer interested in the context  **software , reverse engineering, mac
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🧠 Nuexx
 
