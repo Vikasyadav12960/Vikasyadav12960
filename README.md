@@ -36,7 +36,7 @@ A neural network project built from scratch to understand how  exactly neural ne
 
 A modular terminal application designed around discovering and launching different applications.
 
-**Focus:** Python • Terminal UI • Modular Architecture • Developer Toolss
+**Focus:** Python • Terminal UI • Modular Architecture • Developer Tools
 
 ---
 
