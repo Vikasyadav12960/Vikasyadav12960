@@ -26,7 +26,7 @@ I'm a developer interested in the context  **software , reverse engineering, mac
 ---
 ## 🚀 Featured Project
 
-### 🧠 Nuexx
+### 🧠 Nuex
 
 A neural network project built from scratch to understand how  exactly neural networks actually work.
 
