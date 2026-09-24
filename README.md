@@ -1,4 +1,4 @@
-j7# 👋 Hey, I'm Vikas Katta
+upj7# 👋 Hey, I'm Vikas Katta
 
 > **Currently building. Constantly learning. Improving every day.**
 
@@ -86,7 +86,7 @@ Open Source             ████████░░░░░░░░░░  
 
 <div align="center">
 
-### "Build thingss. Break things. And to Understandd why."
-
+### "Build thingss. Break things. And to Understand why."
+### "luck ?"
 </div>
 
