@@ -87,6 +87,6 @@ Open Source             ████████░░░░░░░░░░  
 <div align="center">
 
 ### "Build thingss. Break things. And to Understand why."
-### "lucky ?"
+### "lucky and ?"
 </div>
 
