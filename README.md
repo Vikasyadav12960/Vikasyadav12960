@@ -34,7 +34,7 @@ A neural network project built from scratch to understand how  exactly neural ne
 
 ### 🖥️ ZEXX Terminal
 
-A modular terminal application designed around discovering and launching different applications.
+A modular terminal application designed around to discovering and launching different applications.
 
 **Focus:** Python • Terminal UI • Modular Architecture • Developer Tool
 
