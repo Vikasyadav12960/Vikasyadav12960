@@ -1,55 +1,80 @@
-# Vikas Katta
+#👋 Hey, I'm Vikas Katta
 
-<p align="left">
-  <samp>SOFTWARE DEVELOPER &nbsp;·&nbsp; MACHINE LEARNING &nbsp;·&nbsp; SYSTEMS</samp>
-</p>
+> **Currently building. Constantly learning. Improving every day.**
 
-Currently building, constantly learning, and exploring how things work beneath the surface.
+I'm a developer interested in the context  **software , reverse engineering, machine learning, and developer tools**.
 
-I'm interested in software engineering, reverse engineering, machine learning, and developer tools.
-
----
-
-### About
-
-- Building **Nuexx** — a neural network from scratch.
-- Developing **ZEXX Terminal** — a modular terminal application.
-- Learning machine learning and neural networks.
-- Exploring systems programming and reverse engineering.
-- Working primarily with Python, C, C++, and .NET.
-
-### Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Nuexx</h3>
-      <p>A neural network implementation built from scratch to understand the fundamentals of neural networks.</p>
-      <sub>Python · Machine Learning · Neural Networks</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌘ ZEXX Terminal</h3>
-      <p>A modular terminal application focused on application discovery, command execution, and extensible architecture.</p>
-      <sub>Python · Terminal UI · Developer Tools</sub>
-    </td>
-  </tr>
-</table>
-
-### Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,dotnet,git,github,windows&theme=dark" />
-</p>
-
-### GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikasYadav12960&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasYadav12960&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-</p>
+* 🔭 Currently building **Nuexx** — a neural network from scratch
+* 🛠️ Building **ZEXX Terminal** — a modular terminal application
+* 🧠 Learning **Machine Learning & Neural Networks**
+* 💻 Working with **Python, C, C++, and .NET**
+* 🚀 Interested in open source and building things from scratch
+* just trying to work, improve myself 
 
 ---
 
-<p align="center">
-  <sub>Build things. Break things. Understand why.</sub>
-</p>
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+
+---
+## 🚀 Featured Project
+
+### 🧠 Nuex
+
+A neural network project built from scratch to understand how  exactly neural networks actually work.
+
+**Focus:** Neurons • Layers • Activations • Loss Functions • Learning
+
+### 🖥️ ZEXX Terminal
+
+A modular terminal application designed around to discovering and launching different applications.
+
+**Focus:** Python • Terminal UI • Modular Architecture • Developer Tool
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasYadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+<br/><br/>
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=VikasYadav12960&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasYadav12960&theme=tokyonight" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikasYadav12960&theme=tokyonight" width="32%" />
+
+</div>
+
+---
+
+
+<div align="center">
+
+### "Build thingss. Break things. And to Understand why."
+### "lucky "
+</div>
