@@ -1,4 +1,4 @@
-#👋 Hey, I'm Vikas Katta
+#👋 Hey, I'm Vikas Yadav 
 
 > **Currently building. Constantly learning. Improving every day.**
 
