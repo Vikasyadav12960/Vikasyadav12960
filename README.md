@@ -75,6 +75,6 @@ A modular terminal application designed around to discovering and launching diff
 
 <div align="center">
 
-### build thingss. Break things."
+### build thingss. Breaking things."
 
 </div>
