@@ -1,42 +1,42 @@
-#👋 Hey, I'm Vikas Yadav Katta
+# 👋 Hey, I'm Vikas Yadav Katta
 
 > **Currently building. Constantly learning. Improving every day.**
 
-I'm a developer interested in the context  **software , reverse engineering, machine learning, and developer tools**.
+I'm a developer interested in **software, reverse engineering, machine learning, and developer tools**.
 
 * 🔭 Currently building **Nuexx** — a neural network from scratch
 * 🛠️ Building **ZEXX Terminal** — a modular terminal application
 * 🧠 Learning **Machine Learning & Neural Networks**
 * 💻 Working with **Python, C, C++, and .NET**
 * 🚀 Interested in open source and building things from scratch
-* just trying to work, improve myself 
+* I’m always looking for ways to improve.
 
 ---
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🧠 Nuex
+### 🧠 [Nuexx](https://github.com/Vikasyadav12960/nuexx)
 
-A neural network project built from scratch to understand how  exactly neural networks actually work.
+A neural network project built from scratch to understand how neural networks learn.
 
 **Focus:** Neurons • Layers • Activations • Loss Functions • Learning
 
-### 🖥️ ZEXX Terminal
+### 🖥️ [ZEXX Terminal](https://github.com/Vikasyadav12960/zexx-terminal)
 
-A modular terminal application designed around to discovering and launching different applications.
+A modular terminal application for discovering and launching applications.
 
-**Focus:** Python • Terminal UI • Modular Architecture • Developer Tool
+**Focus:** Python • Terminal UI • Modular Architecture • Developer Tools
 
 ---
 
@@ -75,6 +75,6 @@ A modular terminal application designed around to discovering and launching diff
 
 <div align="center">
 
-### build thingss. Breaking things."
+### Build things. Break things. Learn.
 
 </div>
