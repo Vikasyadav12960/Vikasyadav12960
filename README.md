@@ -44,11 +44,11 @@ A modular terminal application for discovering and launching applications.
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasYadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikasyadav12960&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 <br/><br/>
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=VikasYadav12960&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=Vikasyadav12960&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -58,15 +58,15 @@ A modular terminal application for discovering and launching applications.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasYadav12960&theme=tokyonight" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikasyadav12960&theme=tokyonight" width="98%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikasyadav12960&theme=tokyonight" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VikasYadav12960&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikasyadav12960&theme=tokyonight" width="32%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikasYadav12960&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikasyadav12960&theme=tokyonight" width="32%" />
 
 </div>
 
